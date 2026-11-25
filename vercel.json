@@ -1,0 +1,9 @@
+{
+  "rewrites": [{ "source": "/api/:path*", "destination": "/api/index" }],
+  "functions": {
+    "api/index.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{.next,node_modules,public,app,components,lib,docs,data,scripts}/**"
+    }
+  }
+}

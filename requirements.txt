@@ -1,0 +1,7 @@
+fastapi==0.165.0
+python-multipart==0.0.32
+pymupdf==2.1
+numpy==2.5.3
+reportlab==5.0.1
+google-genai==3.6.1
+uvicorn==0.54.0

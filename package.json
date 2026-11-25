@@ -1,0 +1,20 @@
+{
+  "name": "ecotrack-ai",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "next-dev": "next dev",
+    "api-dev": "python3 -m uvicorn api.index:app --reload --port 8000",
+    "dev": "concurrently -n next,api -c gray,green \"npm run next-dev\" \"npm run api-dev\"",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "concurrently": "10.0.7"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "old": "riverton_guidelines_v1.pdf",
+  "new": "riverton_guidelines_v2.pdf",
+  "changes": [
+    {
+      "type": "Modified",
+      "old_section": "",
+      "new_section": "",
+      "note": "document version label 1.0 -> 2.0",
+      "obligation_change": "none",
+      "nature": "editorial"
+    },
+    {
+      "type": "Modified",
+      "old_section": "3.2",
+      "new_section": "3.2",
+      "note": "sampling frequency month -> fortnight",
+      "obligation_change": "tightened"
+    },
+    {
+      "type": "Modified",
+      "old_section": "3.4",
+      "new_section": "3.4",
+      "note": "should -> shall (calibration)",
+      "obligation_change": "new"
+    },
+    {
+      "type": "Moved",
+      "old_section": "5.3",
+      "new_section": "3.5",
+      "note": "spill-control clause moved, text unchanged",
+      "obligation_change": "none"
+    },
+    {
+      "type": "Modified",
+      "old_section": "4.1",
+      "new_section": "4.1",
+      "note": "reporting deadline 30 -> 14 days",
+      "obligation_change": "tightened"
+    },
+    {
+      "type": "Added",
+      "old_section": null,
+      "new_section": "4.3",
+      "note": "accidental discharge report within 24 hours",
+      "obligation_change": "new"
+    },
+    {
+      "type": "Modified",
+      "old_section": "4.3",
+      "new_section": "4.4",
+      "note": "should -> shall, three -> five years, renumbered",
+      "obligation_change": "new"
+    },
+    {
+      "type": "Modified",
+      "old_section": "4.4",
+      "new_section": "4.5",
+      "note": "editorial reorder, renumbered",
+      "obligation_change": "none",
+      "nature": "editorial"
+    },
+    {
+      "type": "Removed",
+      "old_section": "5.2",
+      "new_section": null,
+      "note": "leaf-burning permission removed",
+      "obligation_change": "none"
+    },
+    {
+      "type": "Modified",
+      "old_section": "6.2",
+      "new_section": "6.2",
+      "note": "notice period 15 -> 7 days",
+      "obligation_change": "tightened"
+    },
+    {
+      "type": "Added",
+      "old_section": null,
+      "new_section": "7.1",
+      "note": "public register disclosure",
+      "obligation_change": "new"
+    }
+  ]
+}
